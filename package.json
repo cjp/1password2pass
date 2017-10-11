@@ -7,7 +7,7 @@
     "Steve Streza <steve@stevestreza.com>"
   ],
   "bin": {
-    "minori": "./bin/1password2pass"
+    "1password2pass": "./bin/1password2pass"
   },
   "main": "lib/index",
   "repository": {
